@@ -84,3 +84,4 @@ let job = Objects.job;
 let partner = Objects.partner;
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
+let song_2=sounds[2];
