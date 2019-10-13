@@ -77,6 +77,10 @@ song:"The Rainbow Connection",
 job:"Host of The Muppet Show",
 partner:"Miss Piggy"}
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
-
+let name = Objects.name;
+let color = Objects.color;
+let song = Objects.song;
+let job = Objects.job;
+let partner = Objects.partner;
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
